@@ -1,12 +1,41 @@
-## Hi there 👋
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./nexform-wordmark-dark.png">
+  <img src="./nexform-wordmark-light.png" alt="Nexform Consulting" width="360">
+</picture>
+SAP · ABAP · Financial Accounting consulting
 
-<!--
+Boutique SAP consultancy based in Greece 🇬🇷
 
-**Here are some ideas to get you started:**
+</div>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+What we do
+
+Nexform Consulting helps organisations build, extend, and run SAP systems the right way — clean, upgrade-safe, and grounded in real Financial Accounting expertise. We work close to the code and close to the business.
+
+Focus areas
+
+
+S/4HANA & ABAP development — custom apps, RAP, Fiori Elements, and upgrade-safe extensions
+Financial Accounting (FI) — postings, clearing, reconciliation, and month-end automation
+Clean Core — moving custom logic off the stack toward side-by-side extensibility
+SAP Basis — system copies, transports, upgrades, and administration
+Integration — SAP BTP / Integration Suite (CPI), APIs, and third-party connectors
+Greek compliance — myDATA & B2B e-invoicing, PSP and bank reconciliation
+
+
+How we engage
+
+Ongoing support retainers · fixed-scope projects · reusable accelerators that cut delivery time.
+
+Get in touch
+
+
+🌐 <your-website>
+✉️ <your-email>
+💼 <your-linkedin>
+
+
+<div align="center">
+<sub>Nexform Consulting L.P. · Athens, Greece</sub>
+</div>
