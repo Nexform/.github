@@ -17,6 +17,7 @@ Nexform Consulting helps organisations build, extend, and run SAP systems the ri
 | Repository | What it is |
 |---|---|
 | [Bill of Exchange Manager](https://github.com/Nexform/bill-of-exchange-manager) | Migration workbench and register for cheques and bills of exchange (επιταγές, συναλλαγματικές) in S/4HANA Cloud Public Edition, Private Edition and on-premise. One RAP application for every edition. *Pre-release.* |
+| [Clean Core Readiness](https://github.com/Nexform/clean-core-readiness) | Reads the ATC clean core results and the usage data of an S/4HANA system and reports custom code by clean core level (A–D), with a proposal per object: retire, keep or remediate. Open source, MIT. *Pre-release.* |
 
 ## Open source
 
