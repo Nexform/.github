@@ -30,6 +30,8 @@ Libraries written and maintained by our founder, [George Drakos](https://github.
 | [IDoctor](https://github.com/greltel/IDoctor) | Object-oriented reading and changing of IDocs |
 | [ABAP Point Gate](https://github.com/greltel/abap-point-gate) | Framework for switchable, traceable enhancements |
 | [ABAP Cloud Utilities](https://github.com/greltel/abap-cloud-utilities) | Utility library for ABAP for Cloud Development |
+| [ABAP Form Translator](https://github.com/greltel/abap-form-translator) | Runtime translation of SAP form labels, maintained in a Fiori Elements app — no SE63, no transport for a changed label |
+| [ABAP Dynamic Assignment](https://github.com/greltel/abap-dynamic-assignment) | Runtime parameter framework for ABAP Cloud: variables, ranges and mappings maintained in a Fiori app instead of hardcoded values or TVARVC |
 
 ## How we work
 
