@@ -8,9 +8,7 @@ Nexform Consulting helps organisations build, extend, and run SAP systems the ri
 
 - **Clean Core development** — extensions built with ABAP Cloud and RAP that survive every upgrade
 - **Custom code modernisation** — moving classic ABAP towards released APIs, wrappers and a clean core
-- **Finance integrations** — FI postings, bank and third-party interfaces, IDocs, OData and BAPIs
 - **Classic ABAP** — reports, enhancements and interfaces on ECC and S/4HANA, written to today's standards
-- **Greek localisation** — cheques and bills of exchange, and the requirements of the Greek market
 
 ## Products
 
