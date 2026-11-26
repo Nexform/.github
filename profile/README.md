@@ -6,7 +6,7 @@ Nexform Consulting helps organisations build, extend, and run SAP systems the ri
 
 ## Services
 
-- **RAP development** — transactional Fiori apps and OData services with the ABAP RESTful Application Programming Model, managed or unmanaged, with draft
+- **RAP development** — transactional Fiori apps and OData services with the ABAP RESTful Application Programming Model
 - **Interfaces and integrations** — IDocs, OData and SOAP services, BAPIs and file interfaces between SAP and third-party systems
 - **Clean Core development** — extensions built with ABAP Cloud and released APIs that survive every upgrade
 - **Custom code modernisation** — moving classic ABAP towards released APIs, wrappers and a clean core
