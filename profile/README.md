@@ -44,4 +44,6 @@ Libraries written and maintained by our founder, [George Drakos](https://github.
 ## Contact
 
 Nexform Consulting L.P. — Athens, Greece
-[George Drakos on GitHub](https://github.com/greltel)
+
+- LinkedIn: [George Drakos](https://www.linkedin.com/in/george-drakos/)
+- GitHub: [greltel](https://github.com/greltel)
